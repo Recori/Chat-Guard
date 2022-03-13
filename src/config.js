@@ -1,14 +1,14 @@
 const config = { 
 //------------Connections-----------//
-    Client_Token: 'token bd',
+    Client_Token: 'OTQ4OTk4OTM5MjIxMzIzNzk3.YiD-Ig.vDo-Xyt43RAghzKEaJMz9ultVCc',
     MongoDB_ConnectURL: 'mongo db gir',
     //------------BotSettings-----------//
-    Prefix: '!',
-    BotOwners: ["548135592324628480"],
-    Custom_Status_Text: 'Muhammed Emir ❤️ Maxi Codes',
+    Prefix: '-',
+    BotOwners: ["916391664594071613"],
+    Custom_Status_Text: 'Kirve Studios ❤',
     Custom_Status_Type: 'PLAYING', // => PLAYING / WATCHING / LISTENING
     Custom_Status: 'dnd', // => dnd / idle / online / invisible
-    VoiceChannelID: '947204192672571432'
+    VoiceChannelID: ''
 };
   
 module.exports = config;
