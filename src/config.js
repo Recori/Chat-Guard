@@ -1,6 +1,6 @@
 const config = { 
 //------------Connections-----------//
-    Client_Token: 'OTQ4OTk4OTM5MjIxMzIzNzk3.YiD-Ig.vDo-Xyt43RAghzKEaJMz9ultVCc',
+    Client_Token: 'OTQ4OTk4OTM5MjIxMzIzNzk3.YiD-Ig.vXqfAn5Wy4GtaxmH3PSfsqexkr4',
     MongoDB_ConnectURL: 'mongo db gir',
     //------------BotSettings-----------//
     Prefix: '-',
